@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @felix24mihai, a software developer with 2.5 years of experience looking for a new opportunity
+- 👋 Hi, I’m @felix24mihai, a software developer with 2.5 years of experience.
 - 👀 I’m interested in software development products and I love solving data structures and algorithms problems
 - 🌱 I’m a Ruby on Rails Developer with knowledge about React, Redux, ExpressJS, NodeJS
 - 📫 How to reach me:
