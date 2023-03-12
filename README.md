@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development products and I love solving data structures and algorithms problems.
 - 🌱 I’m a Ruby on Rails Developer with knowledge about React, Redux, ExpressJS, NodeJS.
 - 📫 How to reach me:
-- email: mihai_prava@gmail.com, mihai@prava.ro
+- email: mihai.prava@gmail.com, mihai@prava.ro
 - linkedin: https://www.linkedin.com/in/felix-mihai-prav%C4%83-9618a61bb/
 
 <!---
