@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @felix24mihai, a software developer with 4.5 years of experience.
-- 👀 I’m interested in software development products and I love solving data structures and algorithms problems.
 - 🌱 I’m a software developer with the most experience in Ruby/Ruby on Rails and with knowledge about React, Redux, ExpressJS, NodeJS. I also have commercial experience working with Sinatra.
+- 👀 I’m interested in software development products and I love solving data structures and algorithms problems.
 - 📫 How to reach me:
 - email: felix.prava.dev@gmail.com
 - linkedin: https://www.linkedin.com/in/felix-mihai-prav%C4%83-9618a61bb/
