@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @felix24mihai, a software developer with 4.5 years of experience.
+- 👋 Hi, I’m @felix24mihai, a software developer with 5 years of experience.
 - 🌱 I’m a software developer with the most experience in Ruby/Ruby on Rails and with knowledge about React, Redux, ExpressJS, NodeJS. I also have commercial experience working with Sinatra.
 - 👀 I’m interested in software development products and I love solving data structures and algorithms problems.
 - 📫 How to reach me:
